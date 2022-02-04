@@ -1,6 +1,6 @@
 ### Data Science Capstone : Course Project
 ### ui.R file for the Shiny app
-### Github repo : https://github.com/sriharshams/coursera-data-science-capstone
+
 suppressWarnings(library(shiny))
 suppressWarnings(library(markdown))
 shinyUI(navbarPage("Capstone: Course Project",
